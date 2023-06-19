@@ -1,0 +1,9 @@
+C:\Users\Tomislav\source\repos\Izbori\Izbori\obj\Debug\Izbori.csproj.CoreCompileInputs.cache
+C:\Users\Tomislav\source\repos\Izbori\Izbori\bin\Debug\Izbori.exe.config
+C:\Users\Tomislav\source\repos\Izbori\Izbori\bin\Debug\Izbori.exe
+C:\Users\Tomislav\source\repos\Izbori\Izbori\bin\Debug\Izbori.pdb
+C:\Users\Tomislav\source\repos\Izbori\Izbori\obj\Debug\Izbori.exe
+C:\Users\Tomislav\source\repos\Izbori\Izbori\obj\Debug\Izbori.pdb
+C:\Users\Tomislav\source\repos\Izbori\Izbori\bin\Debug\ActressMas.dll
+C:\Users\Tomislav\source\repos\Izbori\Izbori\obj\Debug\Izbori.csproj.CopyComplete
+C:\Users\Tomislav\source\repos\Izbori\Izbori\obj\Debug\Izbori.csproj.AssemblyReference.cache
